@@ -1,0 +1,2 @@
+# rails_hotel_search_linebot
+lineapiの叩き方を残すためのリポジトリ
