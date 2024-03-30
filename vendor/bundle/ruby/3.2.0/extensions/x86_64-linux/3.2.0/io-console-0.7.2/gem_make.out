@@ -1,0 +1,27 @@
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.2.0 extconf.rb
+checking for rb_io_path()... no
+checking for rb_io_descriptor()... yes
+checking for rb_io_get_write_io()... yes
+checking for rb_io_closed_p()... no
+checking for rb_io_open_descriptor()... no
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-6ugrpk sitelibdir\=./.gem.20240330-11-6ugrpk clean
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-6ugrpk sitelibdir\=./.gem.20240330-11-6ugrpk
+compiling console.c
+linking shared-object io/console.so
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-6ugrpk sitelibdir\=./.gem.20240330-11-6ugrpk install
+/usr/bin/install -c -m 0755 console.so ./.gem.20240330-11-6ugrpk/io
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/io-console-0.7.2/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-6ugrpk sitelibdir\=./.gem.20240330-11-6ugrpk clean

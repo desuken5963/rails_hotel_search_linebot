@@ -1,0 +1,18 @@
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/local/bin/ruby -I /usr/local/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-fckfks sitelibdir\=./.gem.20240330-11-fckfks clean
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-fckfks sitelibdir\=./.gem.20240330-11-fckfks
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-fckfks sitelibdir\=./.gem.20240330-11-fckfks install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240330-11-fckfks/skiptrace/internal
+
+current directory: /rails_hotel_search_linebot/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240330-11-fckfks sitelibdir\=./.gem.20240330-11-fckfks clean
