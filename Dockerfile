@@ -12,7 +12,7 @@ WORKDIR /rails_hotel_search_linebot
 COPY Gemfile Gemfile.lock /rails_hotel_search_linebot/
 
 #コンテナ内にコピーしたGemfileを用いてbundel install
-RUN bundle install --path vendor/bundle
+RUN bundle install
 
 #railsを起動する
 CMD ["rails", "server", "-b", "0.0.0.0"]
